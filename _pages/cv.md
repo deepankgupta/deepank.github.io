@@ -46,6 +46,17 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+Open Source Projects
+=====
+* Foodforce - Lead developer for the educational game by United Nations World Food Programme
+* Sepia - Module for recording and testing HTTP transactions in Node.js
+* Chatous - Prediction the quality of users in anonymous chat
+
+Other Interests
+======
+* TEALS Volunteer to teach high school education in Mountain View High School. 
+* Love reading books and being outdoors
+
 Publications
 ======
   <ul>{% for post in site.publications %}
